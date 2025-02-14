@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @Progga-Roy
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-I am a self motivated programmer.
+I am a passionate Software Quality Assurance (SQA) Engineer and Web Developer, eager to enhance software quality and build efficient web applications. I have experience in manual testing, automation testing, and web development. My goal is to secure an SQA position where I can apply my skills and grow professionally.
