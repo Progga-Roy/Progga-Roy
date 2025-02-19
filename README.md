@@ -1,4 +1,4 @@
-# Hi, I'm Chinmayi Roy Progga 👋  
+# Hi, I'm Progga Roy 👋  
 
 🎯 **Aspiring SQA Engineer | Web Developer**  
 📍 Based in Chittagong, Bangladesh  
