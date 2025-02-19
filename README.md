@@ -1,1 +1,11 @@
-I am a passionate Software Quality Assurance (SQA) Engineer and Web Developer, eager to enhance software quality and build efficient web applications. I have experience in manual testing, automation testing, and web development. My goal is to secure an SQA position where I can apply my skills and grow professionally.
+# Hi, I'm Chinmayi Roy Progga 👋  
+
+🎯 **Aspiring SQA Engineer | Web Developer**  
+📍 Based in Chittagong, Bangladesh  
+💡 Passionate about Software Testing, Automation, and Web Development  
+📫 Reach me at: [proggaroy2000@gmail.com] | [https://www.linkedin.com/in/progga-roy-6991ba300/]  
+
+## 🚀 My Skills  
+✅ Manual & Automation Testing (Selenium, Java, API ,Jmeter)  
+✅ Web Development (JavaScript, HTML, CSS)  
+✅ SQL & Database Testing
