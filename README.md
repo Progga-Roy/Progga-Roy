@@ -8,6 +8,6 @@
 ## 🚀 My Skills  
 ✅ Manual & Automation Testing (Selenium, Java)  
 ✅ API Testing (Postman/Newman)  
-✅ Performance Tesing (Jmeter)  
+✅ Performance Testing (Jmeter)  
 ✅ Web Development (JavaScript, HTML, CSS)  
 ✅ SQL & Database Testing
