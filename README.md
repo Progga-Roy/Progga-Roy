@@ -57,15 +57,15 @@
 | Project Name             | Type                | Tools Used                    | Status |
 |--------------------------|---------------------|--------------------------------|--------|
 | Rokomari.com Automation  | Automation Testing  | Selenium, Java, TestNG, POM    | Done |
-| API Testing Project      | API Testing         | Postman, Newman                | In Progress |
-| Manual Testing Project   | Manual Testing      | Test Cases, Bug Reports        | In Progress |
-| Performance Testing      | Performance Testing | Apache JMeter                  | In Progress |
+| API Testing Project      | API Testing         | Postman, Newman                | Done |
+| Manual Testing Project   | Manual Testing      | Test Cases, Bug Reports        | Done |
+| Performance Testing      | Performance Testing | Apache JMeter                  | Done |
 
 #### **Web Development Projects**
 | Project Name        | Type            | Tools Used         | Status |
 |---------------------|-----------------|--------------------|--------|
 | Testy Hurt          | Web Development | HTML, CSS, JS      | Done |
-| Bongobee E-commerce | Web Development | HTML, CSS, JS      | In Progress |
+
 
 ---
 
