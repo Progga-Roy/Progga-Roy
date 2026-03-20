@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hi, I'm Progga Roy 👋</h1>
-<h3 align="center">Aspiring Software Quality Assurance Engineer | Front-End Web Developer</h3>
+<h3 align="center">Software Quality Assurance Engineer | Front-End Web Developer</h3>
 
 ---
 
